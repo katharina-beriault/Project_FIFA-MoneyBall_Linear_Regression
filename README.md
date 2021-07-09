@@ -25,10 +25,10 @@ This dataset contains 107 columns with 17125 rows. Each row shows the informatio
     
 - Monetary values
 
-  |   |   |
+  |   |   ||
     |---|---|---|
     |  **Market value** | Wage   | Release clause |
-    |||
+    ||||
 
 - Player's statistics
 
@@ -88,11 +88,9 @@ To create a linear regression model the following steps were performed:
 
 ## Main results
 
-
 |||
-|:---:|
-|R2-score|
-|0.930|
+|:---:| :---:|
+|R2-score| 0.930|
 |||
 
 ## Libraries
